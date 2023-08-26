@@ -4,7 +4,7 @@
 - Learning how to use GitHub
 - Meeting other freshmen in CS
 
-## hello to GitHub Pages
+## hello to this does not say welcome to github pages Pages
 ## why isn't this showing up
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
