@@ -1,10 +1,10 @@
 # Michael's First CS 193 Homework
 
-## My favorite things about CS 193
+
 - Learning how to use GitHub
 - Meeting other freshmen in CS
 
-## Welcome to GitHub Pages
+## hello to GitHub Pages
 ## why isn't this showing up
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
