@@ -1,6 +1,8 @@
-#Michael's First CS 193 Home Work
+#Michael's First CS 193 Homework
 
-
+##My favorite things about CS 193
+-Learning how to use GitHub
+-Meeting other freshmen in CS
 
 ## Welcome to GitHub Pages
 
