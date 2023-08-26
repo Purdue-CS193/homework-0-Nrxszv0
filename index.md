@@ -3,3 +3,4 @@
 
 - Learning how to use GitHub
 - Meeting other freshmen in CS
+- Learning more about terminal commands
